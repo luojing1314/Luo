@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+    android:id="@+id/ll_video_item_root"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tv_video_detail_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="追风的少年"
+        android:background="@drawable/list_item_bg_normal"
+        android:singleLine="true"
+        android:textSize="20sp"
+        android:padding="5dp"
+        android:textColor="@android:color/black"
+        />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/fl_container"
+        android:background="@android:color/black"
+        android:minHeight="200dp"
+        >
+
+        <!--<io.vov.vitamio.widget.CenterLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:orientation="vertical">-->
+            <io.vov.vitamio.widget.VideoView
+                android:id="@+id/buffer"
+                android:layout_gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true" />
+        <!--</io.vov.vitamio.widget.CenterLayout>-->
+
+
+        <ImageView
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:id="@+id/iv_video_thumbnail"
+            android:scaleType="centerCrop"
+            />
+
+        <ImageView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:padding="20dp"
+            android:focusable="false"
+            android:id="@+id/iv_video_start"
+            android:layout_gravity="center"
+            android:src="@drawable/video_play"
+            />
+
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/tv_video_detail_author"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:textSize="18sp"
+        android:textColor="#dd111111"
+        android:text="导演:斯皮尔伯格"
+        />
+
+    <TextView
+        android:id="@+id/tv_video_detail_content"
+        android:padding="5dp"
+        android:textSize="18sp"
+        android:textColor="#dd111111"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="反复复方法反反复复方法"
+        android:background="@drawable/list_item_bg_normal"
+        />
+    <TextView
+        android:id="@+id/tv_video_detail_referrer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="推荐人:小雪"
+        android:textSize="18sp"
+        android:padding="5dp"
+        android:textColor="#aa000000"
+        />
+    <TextView
+        android:id="@+id/tv_video_detail_reason"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="推荐语:爱上了大家开发绿色减肥的拉伸机打发了就爱上了飞机卢萨卡记得发来撒就分了就撒了发动机了撒娇拉升等级分"
+        android:textSize="18sp"
+        android:padding="5dp"
+        android:textColor="#aa000000"
+        />
+
+    </LinearLayout>
+</ScrollView>

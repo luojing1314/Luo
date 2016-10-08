@@ -1,0 +1,8 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+
+    <!--1280*720为60dp-->
+    <dimen name="videoMinHeight">220dp</dimen>
+    <dimen name="minHeight">255dp</dimen>
+</resources>

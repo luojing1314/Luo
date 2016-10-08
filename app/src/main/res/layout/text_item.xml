@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:background="@drawable/list_item_bg_selector"
+        android:layout_height="wrap_content">
+
+<!--android:background="#01111111"-->
+
+<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:orientation="horizontal"
+        android:id="@+id/ll_type"
+        >
+
+        <TextView
+            android:id="@+id/tv_item_type"
+            android:layout_height="match_parent"
+            android:textSize="15sp"
+            android:text="诗"
+            android:textColor="#bb000000"
+            android:paddingTop="5dp"
+            android:paddingLeft="5dp"
+            android:layout_width="120dp"
+            />
+        <TextView
+            android:id="@+id/tv_item_title"
+            android:paddingTop="5dp"
+            android:paddingLeft="5dp"
+            android:singleLine="true"
+            android:layout_height="match_parent"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:textSize="17sp"
+            android:textColor="@android:color/black"
+            android:text="来自内心的呼喊"
+            />
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="#22111111"
+        android:layout_below="@id/ll_type"
+        />
+
+    <RelativeLayout
+        android:padding="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="100dp">
+
+    <ImageView
+        android:id="@+id/iv_item_pic"
+        android:layout_height="95dp"
+        android:layout_width="120dp"
+        android:src="@drawable/ic_launcher"
+        android:scaleType="centerCrop"
+        />
+
+    <TextView
+        android:id="@+id/tv_item_author"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:paddingTop="5dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:textSize="15sp"
+        android:textColor="#aa000000"
+        android:singleLine="true"
+        android:layout_toRightOf="@+id/iv_item_pic"
+        android:text="作者"/>
+    <TextView
+        android:id="@+id/tv_item_des"
+        android:layout_below="@id/tv_item_author"
+        android:layout_toRightOf="@id/iv_item_pic"
+        android:layout_height="70dp"
+        android:textColor="#88000000"
+        android:textSize="15sp"
+        android:ellipsize="end"
+        android:text=""
+        android:lines="3"
+        android:paddingTop="5dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="8dp"
+        android:layout_width="match_parent"
+        />
+    </RelativeLayout>
+
+
+</LinearLayout>
+
+<!--<LinearLayout-->
+    <!--hei-->
+    <!--&gt;</LinearLayout>-->

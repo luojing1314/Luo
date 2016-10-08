@@ -1,0 +1,26 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Base application theme. -->
+    <style name="FragmentButton">
+        <item name="android:textSize">@dimen/fragment_button_textsize</item>
+        <item name="android:textColor">@color/btn_fragment_text_selector</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">@dimen/btn_padding</item>
+        <item name="android:paddingRight">@dimen/btn_padding</item>
+        <item name="android:paddingTop">@dimen/btn_padddingTop</item>
+        <item name="android:paddingBottom">@dimen/btn_padddingTop</item>
+    </style>
+
+    <style name="AnimationActivity" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/activity_animation_start_in</item>
+        <item name="android:activityOpenExitAnimation">@anim/activity_animation_start_out</item>
+        <item name="android:activityCloseEnterAnimation">@anim/activity_animation_finish_in</item>
+        <item name="android:activityCloseExitAnimation">@anim/activity_animation_finish_out</item>
+    </style>
+
+
+</resources>

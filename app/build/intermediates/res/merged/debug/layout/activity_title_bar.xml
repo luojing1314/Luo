@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="@dimen/titlebar_height"
+    android:id="@+id/ll_title_layout"
+    android:background="@color/colorPrimary"
+    android:gravity="center">
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/iv_title_appicon"
+            android:src="@drawable/app_title_icon"
+            android:layout_width="wrap_content"
+            android:padding="5dp"
+            android:visibility="invisible"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/iv_title_back"
+            android:src="@drawable/btn_title_back_selector"
+            android:layout_width="wrap_content"
+            android:padding="10dp"
+            android:visibility="invisible"
+            android:layout_height="wrap_content" />
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/tv_title_text"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:textSize="22sp"
+        android:singleLine="true"
+        android:textColor="#fff"
+        android:visibility="invisible"
+         />
+    <ImageView
+        android:id="@+id/iv_title_share"
+        android:src="@drawable/share_icon_selector"
+        android:padding="10dp"
+        android:visibility="invisible"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>

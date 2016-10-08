@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content">
+    <LinearLayout
+        android:id="@+id/ll_pic_item_root"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_margin="5dp"
+        android:background="@drawable/list_item_bg_selector"
+        android:padding="5dp"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/tv_pic_item_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="追风的少年"
+            android:singleLine="true"
+            android:textSize="20sp"
+            android:padding="3dp"
+            android:textColor="@android:color/black"
+            />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="#33111111"/>
+
+        <TextView
+            android:id="@+id/tv_pic_item_author"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="作者:小宇"
+            android:textSize="16sp"
+            android:singleLine="true"
+            android:padding="2dp"
+            android:textColor="@android:color/black"
+            />
+
+        <ImageView
+            android:id="@+id/iv_pic_item_pic"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/alizee"
+            />
+    </LinearLayout>
+
+
+</LinearLayout>

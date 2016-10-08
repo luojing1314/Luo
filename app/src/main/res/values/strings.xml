@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">小憩</string>
+    <string name="action_settings">哈哈哈</string>
+    
+    
+<!--     MediaController -->
+    <string name="mediacontroller_play_pause">Play/Pause</string>
+
+    <!--title-->
+    <string name="textfragment_title">文字</string>
+    <string name="picfragment_title">图片</string>
+    <string name="videofragment_title">视频</string>
+    <string name="morefragment_title">更多</string>
+    <string name="recommendpage">作品推荐</string>
+    <string name="more_recommend">作品推荐</string>
+    <string name="more_suggest">意见建议</string>
+    <string name="more_recommend_friend">推荐给好友</string>
+    <string name="more_to_score">去应用商店打分</string>
+    <string name="more_version">版本</string>
+    <string name="more_cache">缓存清理</string>
+
+</resources>

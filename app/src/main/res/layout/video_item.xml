@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_video_item_root"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_marginBottom="3dp"
+    android:layout_marginTop="7dp"
+    android:layout_marginLeft="3dp"
+    android:layout_marginRight="3dp"
+    android:background="@drawable/list_item_bg_selector"
+    android:padding="5dp"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="30dp">
+        <ImageView
+            android:id="@+id/iv_video_item_typePic"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:src="@drawable/film_type"
+            />
+        <TextView
+            android:id="@+id/tv_video_item_typeDes"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="电影"
+            />
+    </LinearLayout>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="#33111111"/>
+    <TextView
+        android:id="@+id/tv_video_item_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="追风的少年"
+        android:singleLine="true"
+        android:textSize="20sp"
+        android:padding="2dp"
+        android:textColor="@android:color/black"
+        />
+
+    <ImageView
+        android:id="@+id/iv_video_item_thumbnail"
+        android:layout_width="match_parent"
+        android:scaleType="centerCrop"
+        android:layout_height="220dp"/>
+
+</LinearLayout>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <include layout="@layout/activity_title_bar"></include>
+
+    <LinearLayout
+        android:id="@+id/ll_item"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="0dp">
+
+       <FrameLayout
+           android:id="@+id/fl_fragment"
+           android:layout_height="match_parent"
+           android:layout_width="match_parent"
+           >
+           
+       </FrameLayout>
+    </LinearLayout>
+	<ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="#33111111"/>
+    
+     <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        >
+    <Button
+        android:id="@+id/btn_text_fragment"
+        style="@style/FragmentButton"
+        android:text="@string/textfragment_title"
+        android:drawableTop="@drawable/text_icon_selector"
+        />
+    <Button
+        android:id="@+id/btn_pic_fragment"
+        style="@style/FragmentButton"
+        android:text="@string/picfragment_title"
+        android:drawableTop="@drawable/pic_icon_selector"
+        />
+    <Button 
+        android:id="@+id/btn_video_fragment"
+        style="@style/FragmentButton"
+        android:text="@string/videofragment_title"
+        android:drawableTop="@drawable/video_icon_selector"
+        />
+    <Button
+        android:id="@+id/btn_more_fragment"
+        style="@style/FragmentButton"
+        android:text="@string/morefragment_title"
+        android:drawableTop="@drawable/more_icon_selector"
+        />
+    </LinearLayout>
+    
+  
+</LinearLayout>
+
+
+

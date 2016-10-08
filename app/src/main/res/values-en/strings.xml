@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">小憩</string>
+    <string name="action_settings">哈哈哈</string>
+    
+    
+<!--     MediaController -->
+    <string name="mediacontroller_play_pause">Play/Pause</string>
+
+    <!--title-->
+    <string name="textfragment_title">text</string>
+    <string name="picfragment_title">picture</string>
+    <string name="videofragment_title">video</string>
+    <string name="morefragment_title">more</string>
+    <string name="recommendpage">recommend works</string>
+    <string name="more_recommend">recommend</string>
+    <string name="more_suggest">feedback</string>
+    <string name="more_recommend_friend">recommend friends</string>
+    <string name="more_to_score">score</string>
+    <string name="more_version">version</string>
+    <string name="more_cache">cache</string>
+
+
+</resources>

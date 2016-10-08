@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_title_back_selector.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\src\\main\\res\\drawable\\btn_title_back_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_submit_pressed.9.png",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\src\\main\\res\\drawable\\btn_submit_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_loaderror_pressed.9.png",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\src\\main\\res\\drawable\\btn_loaderror_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_wifi_disable.png",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\src\\main\\res\\drawable\\bmob_update_wifi_disable.png"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\full_small_screen_selector.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\choice\\vitamio\\unspecified\\res\\drawable\\full_small_screen_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_dialog_bg.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\src\\main\\res\\drawable\\bmob_update_dialog_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pager_indicator_selected.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\src\\main\\res\\drawable\\pager_indicator_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jpush_richpush_progressbar.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\src\\main\\res\\drawable\\jpush_richpush_progressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_loaderror_normal.9.png",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\src\\main\\res\\drawable\\btn_loaderror_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_selector.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\src\\main\\res\\drawable\\bmob_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_platform_cell_back.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_platform_cell_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_focused.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\src\\main\\res\\drawable\\bmob_update_button_cancel_bg_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\more_icon_selector.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\src\\main\\res\\drawable\\more_icon_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_focused.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\src\\main\\res\\drawable\\bmob_update_button_ok_bg_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\save_button.9.png",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\src\\main\\res\\drawable\\save_button.9.png"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_close_bg_selector.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\src\\main\\res\\drawable\\bmob_update_button_close_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_icon_selector.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\src\\main\\res\\drawable\\text_icon_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jpush_richpush_btn_selector.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\src\\main\\res\\drawable\\jpush_richpush_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_submit_selector.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\src\\main\\res\\drawable\\btn_submit_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_selector.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\src\\main\\res\\drawable\\share_icon_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_item_type_bg.9.png",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\src\\main\\res\\drawable\\text_item_type_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pic_icon_selector.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\src\\main\\res\\drawable\\pic_icon_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_tap.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\src\\main\\res\\drawable\\bmob_update_button_ok_bg_tap.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_progressbar.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_progressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_tap.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\src\\main\\res\\drawable\\bmob_update_button_cancel_bg_tap.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg_selector.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\src\\main\\res\\drawable\\list_item_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediacontroller_button.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\choice\\vitamio\\unspecified\\res\\drawable\\mediacontroller_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_normal.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\src\\main\\res\\drawable\\bmob_update_button_cancel_bg_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg_normal.9.png",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\src\\main\\res\\drawable\\list_item_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrubber_progress_horizontal_holo_dark.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\choice\\vitamio\\unspecified\\res\\drawable\\scrubber_progress_horizontal_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_check_selector.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\src\\main\\res\\drawable\\bmob_update_button_check_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pager_indicator_normal.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\src\\main\\res\\drawable\\pager_indicator_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_icon_selector.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\src\\main\\res\\drawable\\video_icon_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrubber_control_selector_holo.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\choice\\vitamio\\unspecified\\res\\drawable\\scrubber_control_selector_holo.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_normal.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\src\\main\\res\\drawable\\bmob_update_button_ok_bg_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_load_bg_selector.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\src\\main\\res\\drawable\\btn_load_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_submit_normal.9.png",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\src\\main\\res\\drawable\\btn_submit_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_selector.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\src\\main\\res\\drawable\\bmob_update_button_cancel_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg_pressed.9.png",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\src\\main\\res\\drawable\\list_item_bg_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\luojing\\AndroidStudioProjects\\choice\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\drawable\\abc_textfield_search_material.xml"
+    }
+]

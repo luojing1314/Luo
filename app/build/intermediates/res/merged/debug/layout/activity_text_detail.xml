@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="#e1ddda"
+	>
+
+	<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/ll_pop"
+    android:orientation="vertical" >
+
+	<TextView
+		android:id="@+id/tv_text_detail_title"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="明年你还会爱我吗"
+		android:textSize="20sp"
+		android:padding="5dp"
+		android:textColor="@android:color/black"
+		/>
+
+	<TextView
+		android:id="@+id/tv_text_detail_author"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="作者:小雪"
+		android:textSize="18sp"
+		android:padding="5dp"
+		android:textColor="#aa000000"
+		/>
+
+		<ImageView
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:minHeight="200dp"
+			android:layout_gravity="center_horizontal"
+			android:layout_margin="5dp"
+			android:scaleType="centerCrop"
+			android:id="@+id/iv_text_detail_cover"
+			/>
+
+	<TextView
+		android:id="@+id/tv_text_detail_content"
+		android:padding="5dp"
+	    android:layout_width="match_parent"
+	    android:layout_height="0dp"
+		android:layout_weight="1"
+	    android:text="内容爱上了对方就拉丝机法拉盛"
+	    android:textSize="18sp"
+		android:textColor="#dd111111"
+	    />
+		<ImageView
+			android:layout_width="match_parent"
+			android:layout_height="0.5dp"
+			android:layout_marginTop="10dp"
+			android:layout_marginBottom="5dp"
+			android:background="#aa111111"
+			/>
+	<TextView
+		android:id="@+id/tv_text_detail_referrer"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="推荐人:小雪"
+		android:textSize="18sp"
+		android:padding="3dp"
+		android:textColor="#aa111111"
+		/>
+	<TextView
+		android:id="@+id/tv_text_detail_reason"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="推荐语:爱上了大家开发绿色减肥的拉伸机打发了就爱上级分"
+		android:textSize="18sp"
+		android:padding="3dp"
+		android:textColor="#aa111111"
+		/>
+	<TextView
+		android:id="@+id/tv_text_detail_source"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="来自:小雪"
+		android:textSize="18sp"
+		android:padding="3dp"
+		android:textColor="#66000000"
+		/>
+
+</LinearLayout>
+</ScrollView>

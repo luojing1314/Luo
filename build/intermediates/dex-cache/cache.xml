@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_bb00aef2ccd1cdf9f2e26788e78a4c64b74953f4.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_7a7239da30591f49c005fabbf5b35ea30931baa5.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_0a648f3f180ffb239f54ff7445a4c6a8b4fe385e.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_12064c0031f08957ba2573ef1dd1aa716a80516e.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\libs\ShareSDK-Wechat-Core-2.7.6.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a987859521b63435c25af5c49fb2678334d99163">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Core-2.7.6_33940cee42ee2e8947192765433ad1dd36dc37cc.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_a2e188c7a46701791df7147697ed87abb41d55c7.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_6b191f0f599eb03c88b62f5a355122e907cd177a.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\libs\gson-2.6.2.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\gson-2.6.2_1a1db50283c551af359eb1aefa15769f6787beb9.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\libs\ShareSDK-Core-2.7.6.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="05daed40b027de06fa881f3ffc29e149cdd3744a">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\ShareSDK-Core-2.7.6_49e11f486522a2c7ff6a2cb8ba73ed0ea0a54d5d.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\libs\ShareSDK-QZone-2.7.6.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5f3bf218730df6235134bb73a5acf293a70ae76e">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\ShareSDK-QZone-2.7.6_2627494970abe99f91b78c96258cf9f8be3ea491.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\libs\ShareSDK-QQ-2.7.6.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="11d5b9b395106ef31beebe55d74f842e549f61e4">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\ShareSDK-QQ-2.7.6_8edd38aa57c5e7b251ab7ef63c5bee2cc9ff9603.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_ade4f6be44e31c81bd057e466fe34e45358a77d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\libs\MobTools-2016.0816.1507.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d9c6fd49a717326f3f750b51a51fa58b79df0734">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\MobTools-2016.0816.1507_9abe58207803cdaabac8fa8ea32bf42c4b057353.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\libs\rxandroid-1.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="927e8ef5711b115b65b2f35495d77352be2b3c09">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\rxandroid-1.2.0_b03ae9e74b2bb093cbe49e5ab733c56496c353f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\libs\rxjava-1.1.6.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\rxjava-1.1.6_a5ed39d303fd403254185936256dfe9148c88d61.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\libs\BmobSDK_3.5.1_20160719.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a8118464e2cbf5ba630913863e9473eea365d5ca">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\BmobSDK_3.5.1_20160719_acf27b86d68e7ac6e8cb09112fe8f3414a46a6ce.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_38c761ec8dba12f42cf4236f859fd35c74fea2b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_9e0c4031b5e61d9aebd0f4f77487667ac5ebf72c.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\libs\ShareSDK-SinaWeibo-2.7.6.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1d5f917b1a63ae17385ca09f873da1baf8671547">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\ShareSDK-SinaWeibo-2.7.6_7e69a36f4188cfdc9d256b80661ba5a858cf6c07.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_4e2190379accc54d9abb5cf2d2d6915de92053f1.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\libs\MobCommons-2016.0816.1507.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ca36dc249a46648f8c8f53ad5ee4a935e80956a8">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\MobCommons-2016.0816.1507_57b89f5287b56854de03fb3dca61660a733752ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\libs\ShareSDK-Email-2.7.6.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="774b86fcac52e7f976bdb68ed0c78fa242414848">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\ShareSDK-Email-2.7.6_444d404e7aeae643d5f8e0c878a0bbcc65229b55.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_d0a26f0ef52a1732dfe2d5f52c0e9024c6fe877b.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\libs\ShareSDK-ShortMessage-2.7.6.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ce9bec874a124a032335cc2b51763bb9c80f3375">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\ShareSDK-ShortMessage-2.7.6_690d2bc42db42a24a5a5ce1ec4c67d0250443792.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_e3fdc593509ee153eaa5dbfff450dbc25511f133.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\libs\okio-1.7.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1dc44f4cec20a64cebb68b90b4218f82ac7948b1">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\okio-1.7.0_f006e79bc0ba543a4b50b8892e3d18c7c7603cc3.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_65aa60762bb9203a123b44bc4b694e3cccd49017.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\libs\ShareSDK-Wechat-2.7.6.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5498694b506ce12bac05d6e9ddb04fc022a7c86a">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-2.7.6_afaf85751b46e8bc808f10ffb75c1d49dcfcbcb1.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ab2cce5b2d9b9f4163f27001ad82cadb59ccfff4">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\instant-run_202d923b8d1e5320d4b892b2f814bc1f5ef09704.jar" />
+    </item>
+    <item
+        jar="E:\Android\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_8ae9ebbfe85398ffef80a7bac24ee827da406e77.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\5.1.1\b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8\butterknife-5.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\butterknife-5.1.1_b74e17ed536a7a733f2108288450e41431c71601.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\.gradle\caches\modules-2\files-2.1\com.umeng.analytics\analytics\6.0.1\aab9085bca0c26dcb9cb11837a5f5e22cc102a5e\analytics-6.0.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="aab9085bca0c26dcb9cb11837a5f5e22cc102a5e">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\analytics-6.0.1_c82149fe6821db2b037b8658a26677885305b2f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_2c5abc98eb17fe7f0028bb2d51bd229d3674b408.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_6ac97e1b38ad1905f4e89852f21d3dd9934378c8.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.2\d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27\picasso-2.3.2.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\picasso-2.3.2_8c9f2d7d8d1a69fe4cdce5281b1f111d91a74eaa.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\libs\ShareSDK-Wechat-Moments-2.7.6.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b998f78d8923dd65e2afa7c424884cc81b826f0a">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Moments-2.7.6_2a84b4b76b0af26a9d8ff2440bcde975306be948.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\libs\jpush-android-2.1.9.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="99c80319fb45b23fbc516787fdd3cf8940fda4b2">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\jpush-android-2.1.9_57a0a9db06f41481df679b96c786c5a5975d586f.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a3a1307b78309cc4d9fcc8e378621a662b9224f1">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_ffbf8548fa1cbd614cf28dad6836aa39fd7f6770.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_118b975362a7e1d05989ebfe4d945c314a52c64e.jar" />
+    </item>
+    <item
+        jar="C:\Users\luojing\AndroidStudioProjects\choice\app\libs\okhttp-3.3.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="C:\Users\luojing\AndroidStudioProjects\choice\app\build\intermediates\pre-dexed\debug\okhttp-3.3.1_405ad0ab0eb321a95c3b0aa65c8d9332e2f65669.jar" />
+    </item>
+
+</items>

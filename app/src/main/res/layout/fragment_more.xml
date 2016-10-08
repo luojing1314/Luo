@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <Button
+        android:id="@+id/btn_more_recommend"
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/list_item_bg_selector"
+        android:textSize="18sp"
+        android:padding="6dp"
+        android:gravity="top|left"
+        android:drawableRight="@drawable/more_arrow"
+        android:textColor="@android:color/black"
+        android:text="@string/more_recommend"/>
+
+    <Button
+        android:id="@+id/btn_more_suggest"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/list_item_bg_selector"
+        android:textSize="18sp"
+        android:gravity="top|left"
+        android:textColor="@android:color/black"
+        android:drawableRight="@drawable/more_arrow"
+        android:padding="6dp"
+        android:text="@string/more_suggest"/>
+
+    <Button
+        android:id="@+id/btn_more_share"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/list_item_bg_selector"
+        android:textSize="18sp"
+        android:gravity="top|left"
+        android:textColor="@android:color/black"
+        android:drawableRight="@drawable/more_arrow"
+        android:padding="6dp"
+        android:text="@string/more_recommend_friend"/>
+
+    <!--<Button-->
+        <!--android:id="@+id/btn_more_score"-->
+        <!--android:layout_marginTop="10dp"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:background="@drawable/list_item_bg_selector"-->
+        <!--android:textSize="18sp"-->
+        <!--android:gravity="top|left"-->
+        <!--android:drawableRight="@drawable/more_arrow"-->
+        <!--android:padding="6dp"-->
+        <!--android:textColor="@android:color/black"-->
+        <!--android:text="@string/more_to_score"/>-->
+
+    <LinearLayout
+        android:id="@+id/ll_clean_cache"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:background="@drawable/list_item_bg_selector"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:gravity="top|left"
+            android:layout_weight="1"
+            android:textColor="@android:color/black"
+            android:padding="6dp"
+            android:text="@string/more_cache"/>
+        <TextView
+            android:id="@+id/tv_cache_size"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:gravity="top|left"
+            android:textColor="@android:color/black"
+            android:padding="6dp"
+            android:text="16.5MB"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_version"
+        android:layout_marginTop="35dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/list_item_bg_selector"
+        android:textSize="16sp"
+        android:textColor="#aa111111"
+        android:padding="10dp"
+        />
+    </LinearLayout>
+
+</ScrollView>

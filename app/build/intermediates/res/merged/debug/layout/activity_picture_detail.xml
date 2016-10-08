@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+    <LinearLayout
+              android:orientation="vertical"
+              android:padding="5dp"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tv_pic_detail_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="饥饿的苏丹"
+        android:textSize="20sp"
+        android:padding="3dp"
+        android:background="@drawable/list_item_bg_normal"
+        android:textColor="@android:color/black"
+        />
+
+    <TextView
+        android:id="@+id/tv_pic_detail_author"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="作者:小雪"
+        android:textSize="18sp"
+        android:padding="3dp"
+        android:textColor="#aa000000"
+        />
+        <LinearLayout
+            android:id="@+id/ll_image_root"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"></LinearLayout>
+
+    <ImageView
+        android:id="@+id/tv_pic_detail_contentpic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="@dimen/minHeight"
+        android:scaleType="centerCrop"
+        android:src="@drawable/hungry"
+        />
+    <TextView
+        android:id="@+id/tv_pic_detail_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/list_item_bg_normal"
+        android:text="一个即将饿死的小孩,远处的秃鹰正虎视眈眈的看着她的一举一动"
+        android:textSize="18sp"
+        android:padding="5dp"
+        android:textColor="#dd111111"
+        />
+        <TextView
+            android:id="@+id/tv_picture_detail_referrer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="推荐人:小雪"
+            android:textSize="16sp"
+            android:padding="3dp"
+            android:textColor="#aa000000"
+            />
+        <TextView
+            android:id="@+id/tv_picture_detail_reason"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="推荐语:爱上了大家开发绿色减肥的拉伸机打发了就爱上了飞机卢萨卡记得发来撒就分了就撒了发动机了撒娇拉升等级分"
+            android:textSize="18sp"
+            android:padding="3dp"
+            android:textColor="#aa000000"
+            />
+
+    <TextView
+        android:id="@+id/tv_pic_detail_source"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="来源:知乎"
+        android:textSize="16sp"
+        android:padding="5dp"
+        android:textColor="#aa000000"
+        />
+    </LinearLayout>
+</ScrollView>
